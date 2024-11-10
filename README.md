@@ -1,6 +1,6 @@
 # Página Web Navideño
 
-Este es una práctica de HTML + CSS + JavaScript, consiste en crear una página web estática.
+Este es una práctica de HTML + CSS + JavaScript, consiste en crear una página web estática. ([Ver demo](https://maximovj.github.io/pagina-web-navideno))
 
 El sitio web es completamente adaptable (responsive), optimizado para dispositivos táctiles, tabletas, 
 
